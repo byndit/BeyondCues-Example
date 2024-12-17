@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="BeyondCues - Custom">
+    <body>
+      <group id="body">
+        <trans-unit id="EnumExtension 4129888363 - EnumValue 1658125374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3957446540">
+          <source>Item Compare</source>
+          <target>Artikelvergleich</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension ABC Functions - EnumValue Item Compare - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

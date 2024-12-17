@@ -1,0 +1,36 @@
+{
+  "id": "b25841de-ca9d-449d-b879-be79f9bb20d6",
+  "name": "BeyondCues - Custom",
+  "publisher": "BEYONDIT GmbH",
+  "version": "1.0.0.1",
+  "brief": "An Example to extend BeyondCues.",
+  "description": "Visit https://www.beyondit.gmbh for more information.",
+  "url": "https://www.beyondit.gmbh",
+  "supportedLocales": [
+    "de-DE",
+    "en-US"
+  ],
+  "propagateDependencies": true,
+  "application": "22.0.0.0",
+  "platform": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50125
+    }
+  ],
+  "runtime": "11.0",
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ],
+  "dependencies": [
+    {
+      "id": "98fcfe84-9b76-4f8e-81a3-77d85907bdd2",
+      "name": "BeyondCues",
+      "publisher": "BEYONDIT GmbH",
+      "version": "2024.0.0.0"
+    }
+  ],  
+  "target": "Cloud"
+}

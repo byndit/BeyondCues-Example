@@ -1,0 +1,24 @@
+{
+        "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.OnSaveAlFileAction": "Rename",
+        "CRS.RenameWithGit": false,
+        "CRS.ObjectNamePrefix": "ABC FU ",
+        "CRS.RemovePrefixFromFilename": true,
+        "editor.quickSuggestionsDelay": 2,
+        "editor.suggestSelection": "first",
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": false,
+          "strings": false
+        },
+        "editor.tabCompletion": "onlySnippets",
+        "al.enableCodeActions": true,
+        "al.enableCodeAnalysis": true,
+        "al.codeAnalyzers": [
+          "${CodeCop}",
+          "${UICop}"
+        ],
+        "al-test-runner.sendDebugTelemetry": false
+}
